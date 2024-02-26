@@ -1,4 +1,4 @@
-This app/automation script will help extract and summarize all necessary information with AI(ChatGPT4.0)to successfully invest in stocks.
+This app/automation script can be used free of charge for learning.
 
 Using JavaScript and Cypress for automation is a great choice, especially for testing web applications. Cypress is a next-generation front-end testing tool built for the modern web. It enables you to write end-to-end tests, integration tests, and unit tests. Here, I'll guide you through setting up a basic project to automate.
 
