@@ -1,0 +1,13 @@
+{
+    "edgars": {
+      "email": "@gmail.com",
+      "pasword": "password"
+    },
+
+    "edgarsWrong": {
+        "email": "12@gmail.com",
+        "pasword": "password"
+      }
+
+
+  }
